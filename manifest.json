@@ -6,7 +6,6 @@
 	"description": "A simple plugin for effortless text justification in Obsidian.",
 	"author": "Sanjay Nithin",
 	"authorUrl": "https://sanjaynithin.tech",
-	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false,
 	"repository": "https://github.com/sanjaynithin2002/obsidian-text-aligner",
 	"bugs": {
