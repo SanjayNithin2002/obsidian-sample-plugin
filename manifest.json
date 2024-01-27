@@ -1,11 +1,17 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "text-aligner",
+	"name": "Text Alignment",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "A simple plugin for effortless text justification in Obsidian.",
+	"author": "Sanjay Nithin",
+	"authorUrl": "https://sanjaynithin.tech",
 	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"isDesktopOnly": false,
+	"repository": "https://github.com/sanjaynithin/obsidian-text-aligner",
+	"bugs": {
+		"url": "https://github.com/sanjaynithin/obsidian-text-aligner/issues"
+	},
+	"license": "MIT",
+	"manifest": "json"
 }
