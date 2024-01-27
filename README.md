@@ -14,14 +14,14 @@ Text Alignment is a plugin for Obsidian that provides a convenient way to justif
 
 2. Extract the ZIP file into your Obsidian vault's plugins folder. The folder structure should look like this:
 
-vault
-└── .obsidian
-└── plugins
-└── text-alignment-plugin
-├── main.js
-├── styles.css
-└── manifest.json
-
+vault <br/>
+└── .obsidian <br/>
+└── plugins <br/>
+└── text-alignment-plugin <br/>
+├── main.js <br/>
+├── styles.css <br/>
+└── manifest.json <br/>
+<br/>
 3. Enable the plugin in Obsidian's settings.
 
 ## Usage
