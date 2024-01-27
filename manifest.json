@@ -8,9 +8,9 @@
 	"authorUrl": "https://sanjaynithin.tech",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false,
-	"repository": "https://github.com/sanjaynithin/obsidian-text-aligner",
+	"repository": "https://github.com/sanjaynithin2002/obsidian-text-aligner",
 	"bugs": {
-		"url": "https://github.com/sanjaynithin/obsidian-text-aligner/issues"
+		"url": "https://github.com/sanjaynithin2002/obsidian-text-aligner/issues"
 	},
 	"license": "MIT",
 	"manifest": "json"
