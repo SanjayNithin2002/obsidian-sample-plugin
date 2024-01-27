@@ -10,7 +10,7 @@ Text Alignment is a plugin for Obsidian that provides a convenient way to justif
 
 ## Installation
 
-1. Download the latest release from the [GitHub releases page](https://github.com/SanjayNithin2002/obsidian-text-aligner/releases/tag/1.0.0).
+1. Download the latest release from the [GitHub releases page](https://github.com/SanjayNithin2002/obsidian-text-aligner/releases/tag/2.0.0).
 
 2. Extract the ZIP file into your Obsidian vault's plugins folder. The folder structure should look like this:
 
