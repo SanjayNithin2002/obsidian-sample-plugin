@@ -1,7 +1,7 @@
 {
 	"id": "text-aligner",
 	"name": "Text Alignment",
-	"version": "2.0.0",
+	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "A simple plugin for effortless text justification in Obsidian.",
 	"author": "Sanjay Nithin",
