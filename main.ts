@@ -1,9 +1,9 @@
-import { Plugin, MarkdownView, TFile } from 'obsidian';
+import { Plugin, MarkdownView} from 'obsidian';
 
-export default class MyPlugin extends Plugin {
+export default class TextAlignment extends Plugin {
 	onload() {
 
-		const item = this.addStatusBarItem();
+		const item  = this.addStatusBarItem();
 		const span = item.createEl("span", { text: "Justify" });
 		span.addEventListener('click', () => {
 			{
@@ -16,9 +16,6 @@ export default class MyPlugin extends Plugin {
 			}
 
 		});
-		span.addEventListener('mouseover', () =>{
-			span.style.cursor = 'pointer';
-		})
 	}
 
 
